@@ -58,7 +58,7 @@ o) 提供影视、软件和应用等下载服务的网站。
 
 windows批处理全自动无门槛操作
 
-fping-4.2 for win32 修改版（基于 msys2.0 修改编译）点击下载[Windows版本](https://proxy.freecdn.workers.dev/?url=https://github.com/badafans/better-cloudflare-ip/releases/latest/download/windows.zip)
+fping-4.2 for win32 修改版（基于 msys2.0 修改编译）点击下载[Windows版本](https://proxy.freecdn.workers.dev/?url=https://github.com/laowagong/better-cloudflare-ip/releases/latest/download/windows.zip)
 
 ## Linux版本
 
@@ -66,7 +66,7 @@ linux shell脚本+fping
 
 具体使用流程，需要编译里面 fping 4.2 修改版本，另外需要系统安装curl支持。
 
-下载修改过的源码 fping-4.2.tar.gz  点击下载[Linux源码](https://proxy.freecdn.workers.dev/?url=https://github.com/badafans/better-cloudflare-ip/releases/latest/download/linux.tar.gz)
+下载修改过的源码 fping-4.2.tar.gz  点击下载[Linux源码](https://proxy.freecdn.workers.dev/?url=https://github.com/laowagong/better-cloudflare-ip/releases/latest/download/linux.tar.gz)
 
 具体编译使用流程如下
  
@@ -91,7 +91,7 @@ sudo ./cf.sh
 安装termux，完整复制下方链接粘贴到termux并回车，后续运行只需输入./cf.sh并回车即可
 
 ``` bash
-curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/badafans/better-cloudflare-ip/master/shell/cf.sh -o cf.sh && chmod +x cf.sh && ./cf.sh
+curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/laowagong/better-cloudflare-ip/master/shell/cf.sh -o cf.sh && chmod +x cf.sh && ./cf.sh
 ```
 
 ## OpenWrt版本
@@ -99,7 +99,7 @@ curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/ba
 完整复制下方链接粘贴到openwrt shell并回车，后续运行只需输入./cf-openwrt.sh并回车即可
 
 ``` bash
-curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/badafans/better-cloudflare-ip/master/shell/cf-openwrt.sh -o cf-openwrt.sh && chmod +x cf-openwrt.sh && ./cf-openwrt.sh
+curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/laowagong/better-cloudflare-ip/master/shell/cf-openwrt.sh -o cf-openwrt.sh && chmod +x cf-openwrt.sh && ./cf-openwrt.sh
 ```
 
 ## 引用声明
