@@ -342,10 +342,10 @@ done
 	rm -rf temp.txt
 	echo $anycast>resolve.txt
 	echo 优选IP $anycast 满足 $bandwidth Mbps带宽需求
-	echo 公网IP $publicip
-	echo 自治域 AS$asn
-	echo 经纬度 $longitude,$latitude
-	echo META城市 $city
+	echo 公网IP 1.1.1.1
+	echo 自治域 AS11111
+	echo 经纬度 1.000,1.000
+	echo META城市 Moon
 	echo 实测带宽 $realbandwidth Mbps
 	echo 峰值速度 $max kB/s
 	echo 数据中心 $colo
