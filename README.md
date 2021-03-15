@@ -104,6 +104,6 @@ curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/la
 
 ## 引用声明
 
-其中 fping 是基于 GitHub 开源项目 https://github.com/schweikert/fping  4.2发行版修改而来，所有脚本均为本人原创内容，转载请注明出处！
+其中 fping 是基于 GitHub 开源项目 https://github.com/schweikert/fping  4.2发行版修改而来，所有脚本均为https://github.com/badafans/better-cloudflare-ip 原创内容，转载请注明出处！
 
 对于 Cloudflare Anycast 节点汇总，定期扫描 Cloudflare 公开节点汇总而来，Cloudflare IP Ranges 来自 https://www.cloudflare.com/zh-cn/ips/
